@@ -1,5 +1,5 @@
 # Installation
-You need to install Python3 and pip for Python3 before use this tool. And then, move to the directory which you want to install this tool, and run
+You need to install Python3 and pip for Python3 before using this tool. After installing them, move to the directory which you want to install this tool, and run
 ```
 git clone https://github.com/matsuihidetoshi/whr-project.git
 cd whr-project
