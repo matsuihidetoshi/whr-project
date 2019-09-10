@@ -7,7 +7,7 @@ pip install -e .
 ```
 After this, you will be able to use command "whr".
 # Usage
-You can use this tool with just running single command below.
+You can use this tool with running just a single command below.
 ```
 whr
 ```
