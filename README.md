@@ -30,4 +30,4 @@ Type the path where you want to search files or directories, and press "Enter".
 ```
 keyword:
 ```
-Type a search keyword.
+Type a search keyword and press "Enter".
